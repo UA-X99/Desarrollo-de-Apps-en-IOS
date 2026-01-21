@@ -61,9 +61,9 @@ Cada carpeta debe incluir un README.md con la siguiente información:
 - Característica 2
 
 ## Tecnologías Utilizadas
-- Swift [versión]
+- Swift (especificar versión, ej: 5.7)
 - UIKit / SwiftUI
-- [Otras frameworks o librerías]
+- [Otras frameworks o librerías si aplica]
 
 ## Capturas de Pantalla
 [Si aplica, incluir imágenes]
@@ -74,8 +74,8 @@ Cada carpeta debe incluir un README.md con la siguiente información:
 3. Presionar `Cmd + R` para ejecutar
 
 ## Requisitos
-- Xcode [versión]
-- iOS [versión]
+- Xcode (especificar versión, ej: 14.0)
+- iOS (especificar versión mínima, ej: 15.0)
 
 ## Notas Adicionales
 [Cualquier información adicional relevante]
