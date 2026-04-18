@@ -1,18 +1,8 @@
-# FavoriteAthletes
+# Desarrollo-de-Apps-en-IOS
+Trabajos de Uriel Alejandro Hernández Hernández de la materia de Desarrollo de apps en sistemas IOS
 
-Aplicación iOS sencilla con patrón MVC para mantener una lista de atletas favoritos.
 
-## Características
-- Ver lista de atletas favoritos
-- Agregar nuevos atletas (nombre, edad, liga, equipo)
-- Editar atletas existentes
-- Eliminar atletas deslizando
-
-## Arquitectura MVC
-- **Model:** `Athlete.swift`
-- **View:** Storyboards + celdas UITableView
-- **Controller:** `AthleteTableViewController` (lista) y `AthleteDetailTableViewController` (agregar/editar)
-
-## Requisitos
-- Xcode 15+
-- iOS 17+
+## FavoriteAthletes
+App iOS sencilla con patrón MVC para mantener una lista de atletas favoritos.
+- Agregar, editar y eliminar atletas
+- Arquitectura MVC (Model-View-Controller)
